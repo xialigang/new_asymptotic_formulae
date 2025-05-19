@@ -1,0 +1,2 @@
+sbottom exp 0.329 0.277 0.284
+sbottom obs 0.224 0.191 0.203
