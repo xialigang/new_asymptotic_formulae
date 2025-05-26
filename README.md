@@ -5,7 +5,7 @@ This is to document some codes to apply the new asymptotic formulae proposed in 
 The toys are produced using the [PyHF](https://joss.theoj.org/papers/10.21105/joss.02823) framework. We also need to do some fits to get the number of signal and background events to build the binned model proposed in [2101.06944](https://arxiv.org/abs/2101.06944) to estimate the effect of the low statistics. 
 
 ## Step2: Analysis of the toys
-In the directory "bottom-squarks_application", we have some python scripts for analyzing the toys and compare with the classic and new asymptotic formulae. 
+In the directory "bottom-squarks_application", we have some python scripts for analyzing the toys and compare with the classic and new asymptotic formulae. It actually needs some inputs which can be produced from the script in step 1, like the binned model, expected/observed qmu values. Interested readers please contact the authors for the application. 
 
 ## a simpler application
 In the directory "number_counting_application", a python script is provided for the application in a number-counting experiment.
